@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Floor
+  - Block
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Node
+  - Player
+  - PostProcess
+  - Block
+  - Key
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: BG
+    uniqueID: 34367823
+    locked: 0
+  - name: door
+    uniqueID: 2471553407
+    locked: 0
+  - name: Player
+    uniqueID: 3772576065
+    locked: 0
+  - name: Line
+    uniqueID: 3463734747
+    locked: 0
+  - name: effect
+    uniqueID: 1124475831
+    locked: 0
+  - name: tip
+    uniqueID: 850050941
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
